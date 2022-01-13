@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ang2207
+- 👋 Hi, I’m Angela.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning React.js.
 
